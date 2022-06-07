@@ -1,18 +1,18 @@
-  1.Title
+ 	1.Title
 	2.Steps_to_reproduce:
-				Step1
-    				Step2
-    				Step3
+		Step1
+    		Step2
+    		Step3
 	3.Expected_result: the_result_we_need
-  4.Actual_result: the_result_of_which_must_be
+	4.Actual_result: the_result_of_which_must_be
  	5.Priority_factor:
-      			Low
-      		  Medium
-   		     	High
-  6.Severity_factor:
-    			  Trivial
-   				  Minor
-    				Major
-    				Critical
-    				Blocker
-  7.Environment 
+      		Low
+      		Medium
+	     	High
+	6.Severity_factor:
+    		Trivial
+   		Minor
+    		Major
+    		Critical
+    		Blocker
+ 	7.Environment 
